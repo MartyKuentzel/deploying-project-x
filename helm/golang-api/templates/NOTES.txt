@@ -1,0 +1,6 @@
+
+Gratulation... your Deployment was successfull
+
+Wait until external IP is rdy..
+
+kubectl get svc

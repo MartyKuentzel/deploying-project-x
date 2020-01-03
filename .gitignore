@@ -1,0 +1,6 @@
+.helmignore
+.devcontainer
+.terraform
+config.json
+values.yaml
+terraform*.*
